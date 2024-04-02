@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="HMB Tech Coming Soon" />
+        <Header title="HMB Tech" />
         <p className="description">
-          September 2024
+          Coming Soon
         </p>
       </main>
 
